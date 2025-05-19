@@ -133,10 +133,10 @@ function HeaderSection({ today }) {
       <div>Б.Эрдэнэсайхан</div>
       <div><strong>Огноо:</strong></div>
       <div>{today}</div>
-      <div><strong>Удирдагч багш:</strong></div>
+      {/* <div><strong>Удирдагч багш:</strong></div>
       <div>Д.Цогзолмаа (Доктор/Ph.D, Дэд проп)</div>
       <div><strong>Зөвлөх багш:</strong></div>
-      <div>Л.Аззаяа (Магистр)</div>
+      <div>Л.Аззаяа (Магистр)</div> */}
     </div>
   );
 }
